@@ -1,0 +1,1152 @@
+,WTeam,LTeam,WLoc
+0,Boston Celtics,Philadelphia 76ers,Home_Team
+1,Golden State Warriors,Oklahoma City Thunder,Home_Team
+2,Milwaukee Bucks,Charlotte Hornets,Visitor_Team
+3,Detroit Pistons,Brooklyn Nets,Home_Team
+4,Indiana Pacers,Memphis Grizzlies,Home_Team
+5,Orlando Magic,Miami Heat,Home_Team
+6,New York Knicks,Atlanta Hawks,Home_Team
+7,Toronto Raptors,Cleveland Cavaliers,Home_Team
+8,New Orleans Pelicans,Houston Rockets,Visitor_Team
+9,San Antonio Spurs,Minnesota Timberwolves,Home_Team
+10,Utah Jazz,Sacramento Kings,Visitor_Team
+11,Denver Nuggets,Los Angeles Clippers,Visitor_Team
+12,Phoenix Suns,Dallas Mavericks,Home_Team
+13,Philadelphia 76ers,Chicago Bulls,Home_Team
+14,Miami Heat,Washington Wizards,Visitor_Team
+15,Portland Trail Blazers,Los Angeles Lakers,Home_Team
+16,Charlotte Hornets,Orlando Magic,Visitor_Team
+17,Brooklyn Nets,New York Knicks,Home_Team
+18,Memphis Grizzlies,Atlanta Hawks,Home_Team
+19,Minnesota Timberwolves,Cleveland Cavaliers,Home_Team
+20,New Orleans Pelicans,Sacramento Kings,Home_Team
+21,Toronto Raptors,Boston Celtics,Home_Team
+22,Milwaukee Bucks,Indiana Pacers,Home_Team
+23,Los Angeles Clippers,Oklahoma City Thunder,Home_Team
+24,Golden State Warriors,Utah Jazz,Visitor_Team
+25,Indiana Pacers,Brooklyn Nets,Home_Team
+26,Toronto Raptors,Washington Wizards,Visitor_Team
+27,Boston Celtics,New York Knicks,Visitor_Team
+28,Philadelphia 76ers,Orlando Magic,Home_Team
+29,Detroit Pistons,Chicago Bulls,Visitor_Team
+30,Charlotte Hornets,Miami Heat,Visitor_Team
+31,Dallas Mavericks,Minnesota Timberwolves,Home_Team
+32,Denver Nuggets,Phoenix Suns,Home_Team
+33,Portland Trail Blazers,San Antonio Spurs,Home_Team
+34,Houston Rockets,Los Angeles Lakers,Visitor_Team
+35,Atlanta Hawks,Cleveland Cavaliers,Visitor_Team
+36,Sacramento Kings,Oklahoma City Thunder,Visitor_Team
+37,Denver Nuggets,Golden State Warriors,Home_Team
+38,Los Angeles Clippers,Houston Rockets,Home_Team
+39,Orlando Magic,Boston Celtics,Visitor_Team
+40,Toronto Raptors,Charlotte Hornets,Home_Team
+41,Milwaukee Bucks,New York Knicks,Home_Team
+42,Minnesota Timberwolves,Indiana Pacers,Home_Team
+43,Dallas Mavericks,Chicago Bulls,Home_Team
+44,Memphis Grizzlies,Utah Jazz,Visitor_Team
+45,Washington Wizards,Portland Trail Blazers,Visitor_Team
+46,Golden State Warriors,Phoenix Suns,Home_Team
+47,San Antonio Spurs,Los Angeles Lakers,Visitor_Team
+48,Detroit Pistons,Philadelphia 76ers,Home_Team
+49,New Orleans Pelicans,Los Angeles Clippers,Home_Team
+50,Denver Nuggets,Sacramento Kings,Home_Team
+51,Atlanta Hawks,Dallas Mavericks,Home_Team
+52,Brooklyn Nets,Cleveland Cavaliers,Visitor_Team
+53,Miami Heat,New York Knicks,Home_Team
+54,Toronto Raptors,Minnesota Timberwolves,Home_Team
+55,Chicago Bulls,Charlotte Hornets,Home_Team
+56,Utah Jazz,Houston Rockets,Visitor_Team
+57,Indiana Pacers,San Antonio Spurs,Visitor_Team
+58,Milwaukee Bucks,Philadelphia 76ers,Home_Team
+59,Los Angeles Lakers,Phoenix Suns,Visitor_Team
+60,Sacramento Kings,Memphis Grizzlies,Home_Team
+61,Golden State Warriors,Washington Wizards,Home_Team
+62,Detroit Pistons,Cleveland Cavaliers,Home_Team
+63,Portland Trail Blazers,Orlando Magic,Visitor_Team
+64,Boston Celtics,Oklahoma City Thunder,Visitor_Team
+65,Los Angeles Lakers,Denver Nuggets,Home_Team
+66,Charlotte Hornets,Chicago Bulls,Home_Team
+67,Golden State Warriors,New York Knicks,Visitor_Team
+68,Toronto Raptors,Dallas Mavericks,Home_Team
+69,Los Angeles Clippers,Houston Rockets,Visitor_Team
+70,Milwaukee Bucks,Minnesota Timberwolves,Visitor_Team
+71,New Orleans Pelicans,Brooklyn Nets,Home_Team
+72,Sacramento Kings,Washington Wizards,Home_Team
+73,Boston Celtics,Detroit Pistons,Visitor_Team
+74,Utah Jazz,New Orleans Pelicans,Visitor_Team
+75,Chicago Bulls,Atlanta Hawks,Visitor_Team
+76,Indiana Pacers,Cleveland Cavaliers,Visitor_Team
+77,Philadelphia 76ers,Charlotte Hornets,Home_Team
+78,Memphis Grizzlies,Phoenix Suns,Home_Team
+79,Miami Heat,Portland Trail Blazers,Home_Team
+80,Milwaukee Bucks,Orlando Magic,Home_Team
+81,San Antonio Spurs,Los Angeles Lakers,Home_Team
+82,Golden State Warriors,Brooklyn Nets,Visitor_Team
+83,Utah Jazz,Dallas Mavericks,Visitor_Team
+84,Oklahoma City Thunder,Phoenix Suns,Home_Team
+85,Los Angeles Clippers,Washington Wizards,Home_Team
+86,Portland Trail Blazers,Indiana Pacers,Visitor_Team
+87,Philadelphia 76ers,Atlanta Hawks,Home_Team
+88,Sacramento Kings,Miami Heat,Visitor_Team
+89,New York Knicks,Brooklyn Nets,Home_Team
+90,Golden State Warriors,Chicago Bulls,Visitor_Team
+91,Milwaukee Bucks,Toronto Raptors,Home_Team
+92,Minnesota Timberwolves,Los Angeles Lakers,Home_Team
+93,San Antonio Spurs,Dallas Mavericks,Home_Team
+94,Denver Nuggets,New Orleans Pelicans,Home_Team
+95,Charlotte Hornets,Miami Heat,Home_Team
+96,Cleveland Cavaliers,Atlanta Hawks,Home_Team
+97,Sacramento Kings,Orlando Magic,Visitor_Team
+98,Boston Celtics,Detroit Pistons,Home_Team
+99,Toronto Raptors,Philadelphia 76ers,Home_Team
+100,Portland Trail Blazers,Houston Rockets,Visitor_Team
+101,Memphis Grizzlies,Washington Wizards,Home_Team
+102,Oklahoma City Thunder,Los Angeles Clippers,Home_Team
+103,Brooklyn Nets,Detroit Pistons,Home_Team
+104,Denver Nuggets,Chicago Bulls,Visitor_Team
+105,Minnesota Timberwolves,Utah Jazz,Home_Team
+106,Indiana Pacers,New York Knicks,Visitor_Team
+107,Golden State Warriors,New Orleans Pelicans,Home_Team
+108,Los Angeles Lakers,Dallas Mavericks,Home_Team
+109,San Antonio Spurs,Phoenix Suns,Visitor_Team
+110,Oklahoma City Thunder,Charlotte Hornets,Visitor_Team
+111,Denver Nuggets,Cleveland Cavaliers,Visitor_Team
+112,Philadelphia 76ers,Los Angeles Clippers,Home_Team
+113,Sacramento Kings,Atlanta Hawks,Visitor_Team
+114,Boston Celtics,Milwaukee Bucks,Home_Team
+115,Portland Trail Blazers,New Orleans Pelicans,Home_Team
+116,Los Angeles Clippers,Orlando Magic,Visitor_Team
+117,Houston Rockets,Brooklyn Nets,Visitor_Team
+118,Indiana Pacers,Chicago Bulls,Visitor_Team
+119,Oklahoma City Thunder,Washington Wizards,Visitor_Team
+120,New York Knicks,Dallas Mavericks,Visitor_Team
+121,Memphis Grizzlies,Utah Jazz,Visitor_Team
+122,Toronto Raptors,Phoenix Suns,Visitor_Team
+123,Golden State Warriors,Minnesota Timberwolves,Home_Team
+124,Philadelphia 76ers,Detroit Pistons,Home_Team
+125,Charlotte Hornets,Cleveland Cavaliers,Home_Team
+126,Indiana Pacers,Boston Celtics,Home_Team
+127,Atlanta Hawks,Miami Heat,Home_Team
+128,Houston Rockets,Chicago Bulls,Visitor_Team
+129,San Antonio Spurs,New Orleans Pelicans,Home_Team
+130,Denver Nuggets,Utah Jazz,Home_Team
+131,Los Angeles Lakers,Portland Trail Blazers,Visitor_Team
+132,Milwaukee Bucks,Sacramento Kings,Home_Team
+133,Brooklyn Nets,Philadelphia 76ers,Home_Team
+134,Washington Wizards,New York Knicks,Home_Team
+135,Orlando Magic,San Antonio Spurs,Visitor_Team
+136,Phoenix Suns,Memphis Grizzlies,Home_Team
+137,Portland Trail Blazers,Minnesota Timberwolves,Home_Team
+138,Toronto Raptors,Los Angeles Lakers,Visitor_Team
+139,Miami Heat,Detroit Pistons,Visitor_Team
+140,Houston Rockets,Indiana Pacers,Visitor_Team
+141,Orlando Magic,Cleveland Cavaliers,Home_Team
+142,Chicago Bulls,New York Knicks,Visitor_Team
+143,Oklahoma City Thunder,New Orleans Pelicans,Home_Team
+144,Denver Nuggets,Boston Celtics,Home_Team
+145,Toronto Raptors,Utah Jazz,Visitor_Team
+146,Golden State Warriors,Memphis Grizzlies,Home_Team
+147,Los Angeles Clippers,Minnesota Timberwolves,Home_Team
+148,Charlotte Hornets,Atlanta Hawks,Home_Team
+149,Dallas Mavericks,Washington Wizards,Home_Team
+150,Brooklyn Nets,Phoenix Suns,Visitor_Team
+151,Portland Trail Blazers,Milwaukee Bucks,Home_Team
+152,Oklahoma City Thunder,Cleveland Cavaliers,Visitor_Team
+153,Detroit Pistons,Orlando Magic,Visitor_Team
+154,New York Knicks,Atlanta Hawks,Visitor_Team
+155,Miami Heat,San Antonio Spurs,Home_Team
+156,Philadelphia 76ers,Indiana Pacers,Visitor_Team
+157,Memphis Grizzlies,Denver Nuggets,Home_Team
+158,New Orleans Pelicans,Chicago Bulls,Home_Team
+159,Utah Jazz,Dallas Mavericks,Home_Team
+160,Toronto Raptors,Sacramento Kings,Visitor_Team
+161,Los Angeles Lakers,Minnesota Timberwolves,Home_Team
+162,Oklahoma City Thunder,Houston Rockets,Home_Team
+163,Boston Celtics,Phoenix Suns,Visitor_Team
+164,Portland Trail Blazers,Los Angeles Clippers,Home_Team
+165,Milwaukee Bucks,Golden State Warriors,Visitor_Team
+166,Orlando Magic,Washington Wizards,Home_Team
+167,Philadelphia 76ers,Charlotte Hornets,Home_Team
+168,Detroit Pistons,Atlanta Hawks,Visitor_Team
+169,Indiana Pacers,Miami Heat,Visitor_Team
+170,Brooklyn Nets,Denver Nuggets,Visitor_Team
+171,Utah Jazz,Boston Celtics,Home_Team
+172,Sacramento Kings,Minnesota Timberwolves,Home_Team
+173,Toronto Raptors,New York Knicks,Home_Team
+174,Los Angeles Clippers,Milwaukee Bucks,Home_Team
+175,New Orleans Pelicans,Phoenix Suns,Home_Team
+176,Chicago Bulls,Cleveland Cavaliers,Home_Team
+177,Memphis Grizzlies,Philadelphia 76ers,Home_Team
+178,Washington Wizards,Miami Heat,Visitor_Team
+179,Golden State Warriors,Brooklyn Nets,Home_Team
+180,San Antonio Spurs,Houston Rockets,Home_Team
+181,Dallas Mavericks,Oklahoma City Thunder,Home_Team
+182,Los Angeles Lakers,Sacramento Kings,Visitor_Team
+183,Charlotte Hornets,Detroit Pistons,Visitor_Team
+184,Houston Rockets,Indiana Pacers,Home_Team
+185,Orlando Magic,New York Knicks,Visitor_Team
+186,Milwaukee Bucks,Denver Nuggets,Visitor_Team
+187,Portland Trail Blazers,Boston Celtics,Home_Team
+188,Los Angeles Lakers,Atlanta Hawks,Home_Team
+189,Washington Wizards,Orlando Magic,Home_Team
+190,Philadelphia 76ers,Miami Heat,Visitor_Team
+191,New Orleans Pelicans,Toronto Raptors,Visitor_Team
+192,Dallas Mavericks,Chicago Bulls,Visitor_Team
+193,Utah Jazz,Memphis Grizzlies,Visitor_Team
+194,Minnesota Timberwolves,Brooklyn Nets,Home_Team
+195,Oklahoma City Thunder,Phoenix Suns,Home_Team
+196,Sacramento Kings,San Antonio Spurs,Home_Team
+197,Los Angeles Clippers,Golden State Warriors,Home_Team
+198,Cleveland Cavaliers,Charlotte Hornets,Home_Team
+199,Houston Rockets,Denver Nuggets,Visitor_Team
+200,Golden State Warriors,Atlanta Hawks,Home_Team
+201,Orlando Magic,Philadelphia 76ers,Home_Team
+202,Washington Wizards,Cleveland Cavaliers,Home_Team
+203,Boston Celtics,Chicago Bulls,Home_Team
+204,Miami Heat,Brooklyn Nets,Visitor_Team
+205,Detroit Pistons,Toronto Raptors,Visitor_Team
+206,Memphis Grizzlies,Milwaukee Bucks,Visitor_Team
+207,Minnesota Timberwolves,New Orleans Pelicans,Home_Team
+208,Oklahoma City Thunder,New York Knicks,Home_Team
+209,Dallas Mavericks,Utah Jazz,Home_Team
+210,Phoenix Suns,San Antonio Spurs,Home_Team
+211,Los Angeles Lakers,Portland Trail Blazers,Home_Team
+212,Houston Rockets,Golden State Warriors,Home_Team
+213,Denver Nuggets,Atlanta Hawks,Home_Team
+214,Los Angeles Clippers,San Antonio Spurs,Home_Team
+215,Boston Celtics,Toronto Raptors,Home_Team
+216,Indiana Pacers,Miami Heat,Home_Team
+217,Philadelphia 76ers,Utah Jazz,Home_Team
+218,Brooklyn Nets,Washington Wizards,Visitor_Team
+219,Memphis Grizzlies,Sacramento Kings,Home_Team
+220,Minnesota Timberwolves,Portland Trail Blazers,Home_Team
+221,New Orleans Pelicans,New York Knicks,Home_Team
+222,Milwaukee Bucks,Chicago Bulls,Home_Team
+223,Los Angeles Clippers,Brooklyn Nets,Visitor_Team
+224,Philadelphia 76ers,Charlotte Hornets,Visitor_Team
+225,Indiana Pacers,Atlanta Hawks,Home_Team
+226,New Orleans Pelicans,Denver Nuggets,Home_Team
+227,Orlando Magic,Los Angeles Lakers,Home_Team
+228,Utah Jazz,Boston Celtics,Visitor_Team
+229,Toronto Raptors,Chicago Bulls,Visitor_Team
+230,Houston Rockets,Sacramento Kings,Home_Team
+231,Dallas Mavericks,Golden State Warriors,Home_Team
+232,Oklahoma City Thunder,Phoenix Suns,Visitor_Team
+233,Memphis Grizzlies,Minnesota Timberwolves,Visitor_Team
+234,Los Angeles Lakers,Miami Heat,Visitor_Team
+235,Orlando Magic,New York Knicks,Home_Team
+236,Portland Trail Blazers,Washington Wizards,Visitor_Team
+237,San Antonio Spurs,Golden State Warriors,Home_Team
+238,Charlotte Hornets,Boston Celtics,Home_Team
+239,Detroit Pistons,Cleveland Cavaliers,Home_Team
+240,Indiana Pacers,Utah Jazz,Home_Team
+241,Philadelphia 76ers,Phoenix Suns,Home_Team
+242,Los Angeles Clippers,Atlanta Hawks,Visitor_Team
+243,Memphis Grizzlies,Dallas Mavericks,Home_Team
+244,Milwaukee Bucks,Denver Nuggets,Home_Team
+245,New Orleans Pelicans,San Antonio Spurs,Home_Team
+246,Sacramento Kings,Oklahoma City Thunder,Home_Team
+247,Toronto Raptors,Orlando Magic,Visitor_Team
+248,Washington Wizards,Los Angeles Clippers,Home_Team
+249,Brooklyn Nets,Miami Heat,Visitor_Team
+250,Portland Trail Blazers,New York Knicks,Visitor_Team
+251,Charlotte Hornets,Indiana Pacers,Home_Team
+252,Philadelphia 76ers,New Orleans Pelicans,Home_Team
+253,Toronto Raptors,Atlanta Hawks,Visitor_Team
+254,New York Knicks,Boston Celtics,Visitor_Team
+255,Chicago Bulls,Phoenix Suns,Home_Team
+256,Los Angeles Lakers,Cleveland Cavaliers,Visitor_Team
+257,Houston Rockets,Detroit Pistons,Home_Team
+258,Milwaukee Bucks,Portland Trail Blazers,Home_Team
+259,Denver Nuggets,Minnesota Timberwolves,Visitor_Team
+260,Dallas Mavericks,Brooklyn Nets,Home_Team
+261,Memphis Grizzlies,San Antonio Spurs,Visitor_Team
+262,Sacramento Kings,Utah Jazz,Visitor_Team
+263,Oklahoma City Thunder,Golden State Warriors,Visitor_Team
+264,Minnesota Timberwolves,Brooklyn Nets,Visitor_Team
+265,Los Angeles Clippers,Memphis Grizzlies,Home_Team
+266,Detroit Pistons,Houston Rockets,Home_Team
+267,Boston Celtics,Atlanta Hawks,Visitor_Team
+268,New York Knicks,New Orleans Pelicans,Home_Team
+269,Cleveland Cavaliers,Philadelphia 76ers,Visitor_Team
+270,Toronto Raptors,Washington Wizards,Home_Team
+271,Miami Heat,Chicago Bulls,Visitor_Team
+272,San Antonio Spurs,Indiana Pacers,Visitor_Team
+273,Oklahoma City Thunder,Charlotte Hornets,Home_Team
+274,Phoenix Suns,Milwaukee Bucks,Visitor_Team
+275,Denver Nuggets,Orlando Magic,Home_Team
+276,Golden State Warriors,Portland Trail Blazers,Home_Team
+277,Los Angeles Lakers,Utah Jazz,Home_Team
+278,Cleveland Cavaliers,Houston Rockets,Home_Team
+279,Minnesota Timberwolves,Chicago Bulls,Home_Team
+280,Denver Nuggets,Oklahoma City Thunder,Visitor_Team
+281,Washington Wizards,New Orleans Pelicans,Home_Team
+282,Dallas Mavericks,Boston Celtics,Home_Team
+283,Golden State Warriors,Sacramento Kings,Home_Team
+284,Milwaukee Bucks,San Antonio Spurs,Home_Team
+285,Orlando Magic,Los Angeles Lakers,Visitor_Team
+286,Detroit Pistons,Phoenix Suns,Home_Team
+287,Atlanta Hawks,Charlotte Hornets,Home_Team
+288,Philadelphia 76ers,Brooklyn Nets,Visitor_Team
+289,New York Knicks,Memphis Grizzlies,Visitor_Team
+290,Toronto Raptors,Miami Heat,Home_Team
+291,Utah Jazz,Sacramento Kings,Visitor_Team
+292,Los Angeles Clippers,Portland Trail Blazers,Visitor_Team
+293,Charlotte Hornets,Milwaukee Bucks,Home_Team
+294,Minnesota Timberwolves,Cleveland Cavaliers,Visitor_Team
+295,Washington Wizards,Houston Rockets,Home_Team
+296,San Antonio Spurs,Chicago Bulls,Visitor_Team
+297,Boston Celtics,New Orleans Pelicans,Visitor_Team
+298,Indiana Pacers,Utah Jazz,Visitor_Team
+299,Golden State Warriors,Orlando Magic,Home_Team
+300,Detroit Pistons,New York Knicks,Home_Team
+301,Atlanta Hawks,Miami Heat,Visitor_Team
+302,Toronto Raptors,Memphis Grizzlies,Visitor_Team
+303,Denver Nuggets,Los Angeles Lakers,Home_Team
+304,Indiana Pacers,Phoenix Suns,Visitor_Team
+305,Charlotte Hornets,Atlanta Hawks,Home_Team
+306,Philadelphia 76ers,New York Knicks,Home_Team
+307,Utah Jazz,Brooklyn Nets,Visitor_Team
+308,Dallas Mavericks,Houston Rockets,Visitor_Team
+309,Milwaukee Bucks,Chicago Bulls,Home_Team
+310,Minnesota Timberwolves,San Antonio Spurs,Home_Team
+311,New Orleans Pelicans,Washington Wizards,Home_Team
+312,Oklahoma City Thunder,Cleveland Cavaliers,Home_Team
+313,Portland Trail Blazers,Orlando Magic,Home_Team
+314,Los Angeles Clippers,Phoenix Suns,Home_Team
+315,Toronto Raptors,Golden State Warriors,Home_Team
+316,Los Angeles Lakers,Indiana Pacers,Home_Team
+317,Los Angeles Clippers,Sacramento Kings,Visitor_Team
+318,Boston Celtics,Cleveland Cavaliers,Home_Team
+319,Utah Jazz,Charlotte Hornets,Visitor_Team
+320,Detroit Pistons,Chicago Bulls,Home_Team
+321,Philadelphia 76ers,Washington Wizards,Home_Team
+322,Memphis Grizzlies,Brooklyn Nets,Visitor_Team
+323,Miami Heat,New Orleans Pelicans,Home_Team
+324,Oklahoma City Thunder,Atlanta Hawks,Home_Team
+325,Houston Rockets,San Antonio Spurs,Visitor_Team
+326,Orlando Magic,Phoenix Suns,Visitor_Team
+327,Los Angeles Lakers,Dallas Mavericks,Home_Team
+328,Denver Nuggets,Portland Trail Blazers,Visitor_Team
+329,New York Knicks,Milwaukee Bucks,Home_Team
+330,Detroit Pistons,Golden State Warriors,Home_Team
+331,Washington Wizards,Brooklyn Nets,Home_Team
+332,Toronto Raptors,Cleveland Cavaliers,Visitor_Team
+333,Houston Rockets,Chicago Bulls,Home_Team
+334,Boston Celtics,Minnesota Timberwolves,Visitor_Team
+335,Sacramento Kings,Indiana Pacers,Home_Team
+336,Los Angeles Lakers,Phoenix Suns,Home_Team
+337,New Orleans Pelicans,Charlotte Hornets,Visitor_Team
+338,Miami Heat,Utah Jazz,Home_Team
+339,Philadelphia 76ers,Memphis Grizzlies,Home_Team
+340,Dallas Mavericks,Los Angeles Clippers,Home_Team
+341,San Antonio Spurs,Portland Trail Blazers,Home_Team
+342,Oklahoma City Thunder,Detroit Pistons,Visitor_Team
+343,Golden State Warriors,Atlanta Hawks,Visitor_Team
+344,Cleveland Cavaliers,Brooklyn Nets,Visitor_Team
+345,Washington Wizards,New York Knicks,Visitor_Team
+346,Denver Nuggets,Toronto Raptors,Visitor_Team
+347,Minnesota Timberwolves,Houston Rockets,Home_Team
+348,Los Angeles Clippers,New Orleans Pelicans,Visitor_Team
+349,Indiana Pacers,Chicago Bulls,Home_Team
+350,Orlando Magic,Miami Heat,Visitor_Team
+351,Dallas Mavericks,Portland Trail Blazers,Home_Team
+352,Sacramento Kings,Phoenix Suns,Visitor_Team
+353,Utah Jazz,San Antonio Spurs,Home_Team
+354,Golden State Warriors,Cleveland Cavaliers,Visitor_Team
+355,Denver Nuggets,Orlando Magic,Visitor_Team
+356,Washington Wizards,Atlanta Hawks,Visitor_Team
+357,Oklahoma City Thunder,Brooklyn Nets,Visitor_Team
+358,Memphis Grizzlies,Los Angeles Clippers,Home_Team
+359,Milwaukee Bucks,Detroit Pistons,Home_Team
+360,Minnesota Timberwolves,Charlotte Hornets,Home_Team
+361,New Orleans Pelicans,Dallas Mavericks,Home_Team
+362,Toronto Raptors,Philadelphia 76ers,Home_Team
+363,Los Angeles Lakers,San Antonio Spurs,Home_Team
+364,Boston Celtics,New York Knicks,Home_Team
+365,Portland Trail Blazers,Phoenix Suns,Home_Team
+366,Utah Jazz,Houston Rockets,Home_Team
+367,Charlotte Hornets,Denver Nuggets,Home_Team
+368,Philadelphia 76ers,Detroit Pistons,Visitor_Team
+369,Indiana Pacers,Orlando Magic,Visitor_Team
+370,Brooklyn Nets,Toronto Raptors,Home_Team
+371,Sacramento Kings,Cleveland Cavaliers,Visitor_Team
+372,Chicago Bulls,Oklahoma City Thunder,Home_Team
+373,Memphis Grizzlies,New Orleans Pelicans,Visitor_Team
+374,San Antonio Spurs,Los Angeles Lakers,Home_Team
+375,Miami Heat,Phoenix Suns,Visitor_Team
+376,Golden State Warriors,Milwaukee Bucks,Visitor_Team
+377,Dallas Mavericks,Houston Rockets,Home_Team
+378,Indiana Pacers,Sacramento Kings,Home_Team
+379,Atlanta Hawks,Denver Nuggets,Home_Team
+380,Cleveland Cavaliers,Washington Wizards,Home_Team
+381,Brooklyn Nets,New York Knicks,Visitor_Team
+382,Boston Celtics,Chicago Bulls,Visitor_Team
+383,Los Angeles Lakers,Memphis Grizzlies,Visitor_Team
+384,Portland Trail Blazers,Minnesota Timberwolves,Home_Team
+385,Miami Heat,Los Angeles Clippers,Visitor_Team
+386,New Orleans Pelicans,Detroit Pistons,Visitor_Team
+387,Milwaukee Bucks,Toronto Raptors,Visitor_Team
+388,San Antonio Spurs,Utah Jazz,Home_Team
+389,Charlotte Hornets,New York Knicks,Visitor_Team
+390,Indiana Pacers,Washington Wizards,Home_Team
+391,Philadelphia 76ers,Detroit Pistons,Home_Team
+392,Boston Celtics,New Orleans Pelicans,Home_Team
+393,Sacramento Kings,Chicago Bulls,Visitor_Team
+394,Milwaukee Bucks,Cleveland Cavaliers,Home_Team
+395,Oklahoma City Thunder,Utah Jazz,Home_Team
+396,Dallas Mavericks,Orlando Magic,Home_Team
+397,Denver Nuggets,Memphis Grizzlies,Home_Team
+398,Los Angeles Clippers,Phoenix Suns,Visitor_Team
+399,Golden State Warriors,Minnesota Timberwolves,Home_Team
+400,Los Angeles Lakers,Miami Heat,Home_Team
+401,Houston Rockets,Portland Trail Blazers,Home_Team
+402,San Antonio Spurs,Phoenix Suns,Home_Team
+403,Toronto Raptors,Los Angeles Clippers,Visitor_Team
+404,Charlotte Hornets,Detroit Pistons,Home_Team
+405,Cleveland Cavaliers,New York Knicks,Home_Team
+406,Indiana Pacers,Milwaukee Bucks,Home_Team
+407,Brooklyn Nets,Philadelphia 76ers,Visitor_Team
+408,Boston Celtics,Washington Wizards,Visitor_Team
+409,Memphis Grizzlies,Portland Trail Blazers,Home_Team
+410,New Orleans Pelicans,Oklahoma City Thunder,Home_Team
+411,Dallas Mavericks,Atlanta Hawks,Home_Team
+412,Utah Jazz,Miami Heat,Home_Team
+413,Sacramento Kings,Minnesota Timberwolves,Home_Team
+414,Toronto Raptors,Golden State Warriors,Visitor_Team
+415,Houston Rockets,Los Angeles Lakers,Home_Team
+416,San Antonio Spurs,Los Angeles Clippers,Home_Team
+417,Orlando Magic,Chicago Bulls,Home_Team
+418,Phoenix Suns,Dallas Mavericks,Home_Team
+419,Boston Celtics,Atlanta Hawks,Home_Team
+420,New York Knicks,Charlotte Hornets,Visitor_Team
+421,Brooklyn Nets,Washington Wizards,Home_Team
+422,Milwaukee Bucks,Cleveland Cavaliers,Visitor_Team
+423,Indiana Pacers,Philadelphia 76ers,Visitor_Team
+424,Miami Heat,Memphis Grizzlies,Visitor_Team
+425,Denver Nuggets,Oklahoma City Thunder,Home_Team
+426,Portland Trail Blazers,Toronto Raptors,Home_Team
+427,Golden State Warriors,Sacramento Kings,Visitor_Team
+428,Orlando Magic,Utah Jazz,Home_Team
+429,Los Angeles Lakers,Charlotte Hornets,Visitor_Team
+430,Detroit Pistons,Boston Celtics,Home_Team
+431,Houston Rockets,Memphis Grizzlies,Visitor_Team
+432,Chicago Bulls,San Antonio Spurs,Visitor_Team
+433,Oklahoma City Thunder,Los Angeles Clippers,Home_Team
+434,Phoenix Suns,Minnesota Timberwolves,Home_Team
+435,Brooklyn Nets,Atlanta Hawks,Home_Team
+436,Philadelphia 76ers,Cleveland Cavaliers,Visitor_Team
+437,Indiana Pacers,New York Knicks,Home_Team
+438,Washington Wizards,Los Angeles Lakers,Home_Team
+439,Sacramento Kings,Dallas Mavericks,Visitor_Team
+440,Miami Heat,New Orleans Pelicans,Visitor_Team
+441,Denver Nuggets,Toronto Raptors,Home_Team
+442,Milwaukee Bucks,Detroit Pistons,Visitor_Team
+443,Phoenix Suns,New York Knicks,Visitor_Team
+444,Houston Rockets,Utah Jazz,Home_Team
+445,Minnesota Timberwolves,Sacramento Kings,Home_Team
+446,Oklahoma City Thunder,Chicago Bulls,Home_Team
+447,San Antonio Spurs,Philadelphia 76ers,Home_Team
+448,Golden State Warriors,Memphis Grizzlies,Home_Team
+449,Portland Trail Blazers,Los Angeles Clippers,Visitor_Team
+450,Cleveland Cavaliers,Indiana Pacers,Visitor_Team
+451,Atlanta Hawks,Washington Wizards,Home_Team
+452,Brooklyn Nets,Los Angeles Lakers,Home_Team
+453,Denver Nuggets,Dallas Mavericks,Home_Team
+454,Charlotte Hornets,Cleveland Cavaliers,Home_Team
+455,San Antonio Spurs,Orlando Magic,Visitor_Team
+456,Philadelphia 76ers,New York Knicks,Home_Team
+457,Phoenix Suns,Boston Celtics,Visitor_Team
+458,Toronto Raptors,Indiana Pacers,Home_Team
+459,Brooklyn Nets,Chicago Bulls,Visitor_Team
+460,Houston Rockets,Washington Wizards,Home_Team
+461,Milwaukee Bucks,New Orleans Pelicans,Home_Team
+462,Detroit Pistons,Minnesota Timberwolves,Visitor_Team
+463,Utah Jazz,Golden State Warriors,Home_Team
+464,Portland Trail Blazers,Memphis Grizzlies,Home_Team
+465,Oklahoma City Thunder,Sacramento Kings,Visitor_Team
+466,Miami Heat,Houston Rockets,Home_Team
+467,Los Angeles Clippers,Dallas Mavericks,Home_Team
+468,Charlotte Hornets,Detroit Pistons,Home_Team
+469,Toronto Raptors,Cleveland Cavaliers,Home_Team
+470,Indiana Pacers,Brooklyn Nets,Visitor_Team
+471,Atlanta Hawks,New York Knicks,Visitor_Team
+472,Milwaukee Bucks,Boston Celtics,Visitor_Team
+473,Chicago Bulls,Orlando Magic,Home_Team
+474,San Antonio Spurs,Minnesota Timberwolves,Home_Team
+475,Utah Jazz,Portland Trail Blazers,Visitor_Team
+476,Sacramento Kings,Memphis Grizzlies,Home_Team
+477,Los Angeles Lakers,New Orleans Pelicans,Home_Team
+478,Los Angeles Clippers,Denver Nuggets,Home_Team
+479,Washington Wizards,Phoenix Suns,Home_Team
+480,Philadelphia 76ers,Toronto Raptors,Home_Team
+481,Houston Rockets,San Antonio Spurs,Home_Team
+482,Miami Heat,Milwaukee Bucks,Home_Team
+483,Golden State Warriors,Dallas Mavericks,Home_Team
+484,Oklahoma City Thunder,Utah Jazz,Visitor_Team
+485,Atlanta Hawks,Detroit Pistons,Visitor_Team
+486,Indiana Pacers,Washington Wizards,Home_Team
+487,Boston Celtics,Charlotte Hornets,Home_Team
+488,Brooklyn Nets,Phoenix Suns,Home_Team
+489,Chicago Bulls,Cleveland Cavaliers,Visitor_Team
+490,Miami Heat,Orlando Magic,Visitor_Team
+491,Sacramento Kings,New Orleans Pelicans,Home_Team
+492,Minnesota Timberwolves,Oklahoma City Thunder,Visitor_Team
+493,Golden State Warriors,Los Angeles Clippers,Home_Team
+494,Portland Trail Blazers,Dallas Mavericks,Home_Team
+495,Memphis Grizzlies,Los Angeles Lakers,Visitor_Team
+496,Milwaukee Bucks,New York Knicks,Visitor_Team
+497,Houston Rockets,Oklahoma City Thunder,Home_Team
+498,Boston Celtics,Philadelphia 76ers,Home_Team
+499,Los Angeles Lakers,Golden State Warriors,Visitor_Team
+500,Utah Jazz,Portland Trail Blazers,Home_Team
+501,Detroit Pistons,Washington Wizards,Home_Team
+502,Phoenix Suns,Orlando Magic,Visitor_Team
+503,Indiana Pacers,Atlanta Hawks,Visitor_Team
+504,Brooklyn Nets,Charlotte Hornets,Home_Team
+505,Toronto Raptors,Miami Heat,Visitor_Team
+506,Minnesota Timberwolves,Chicago Bulls,Visitor_Team
+507,Memphis Grizzlies,Cleveland Cavaliers,Home_Team
+508,Dallas Mavericks,New Orleans Pelicans,Home_Team
+509,San Antonio Spurs,Denver Nuggets,Home_Team
+510,Los Angeles Clippers,Sacramento Kings,Home_Team
+511,Houston Rockets,Boston Celtics,Home_Team
+512,Milwaukee Bucks,New York Knicks,Home_Team
+513,Sacramento Kings,Los Angeles Lakers,Home_Team
+514,Portland Trail Blazers,Golden State Warriors,Visitor_Team
+515,Philadelphia 76ers,Utah Jazz,Visitor_Team
+516,Charlotte Hornets,Brooklyn Nets,Home_Team
+517,Indiana Pacers,Detroit Pistons,Home_Team
+518,Orlando Magic,Toronto Raptors,Home_Team
+519,Chicago Bulls,Washington Wizards,Visitor_Team
+520,Miami Heat,Cleveland Cavaliers,Home_Team
+521,Atlanta Hawks,Minnesota Timberwolves,Visitor_Team
+522,New Orleans Pelicans,Dallas Mavericks,Home_Team
+523,Denver Nuggets,San Antonio Spurs,Home_Team
+524,Oklahoma City Thunder,Phoenix Suns,Visitor_Team
+525,Los Angeles Clippers,Los Angeles Lakers,Visitor_Team
+526,Milwaukee Bucks,Brooklyn Nets,Home_Team
+527,Houston Rockets,New Orleans Pelicans,Visitor_Team
+528,Washington Wizards,Charlotte Hornets,Home_Team
+529,Atlanta Hawks,Cleveland Cavaliers,Home_Team
+530,Boston Celtics,Memphis Grizzlies,Visitor_Team
+531,Utah Jazz,New York Knicks,Home_Team
+532,Denver Nuggets,Phoenix Suns,Visitor_Team
+533,Golden State Warriors,Portland Trail Blazers,Visitor_Team
+534,San Antonio Spurs,Los Angeles Clippers,Visitor_Team
+535,Orlando Magic,Detroit Pistons,Home_Team
+536,Minnesota Timberwolves,Miami Heat,Visitor_Team
+537,Toronto Raptors,Chicago Bulls,Home_Team
+538,Dallas Mavericks,Oklahoma City Thunder,Home_Team
+539,Portland Trail Blazers,Philadelphia 76ers,Home_Team
+540,Los Angeles Lakers,Sacramento Kings,Home_Team
+541,Indiana Pacers,Atlanta Hawks,Home_Team
+542,Charlotte Hornets,Orlando Magic,Home_Team
+543,Houston Rockets,Memphis Grizzlies,Home_Team
+544,San Antonio Spurs,Boston Celtics,Home_Team
+545,New Orleans Pelicans,Minnesota Timberwolves,Home_Team
+546,Oklahoma City Thunder,Dallas Mavericks,Home_Team
+547,Golden State Warriors,Phoenix Suns,Visitor_Team
+548,Toronto Raptors,Utah Jazz,Home_Team
+549,Milwaukee Bucks,Detroit Pistons,Home_Team
+550,Denver Nuggets,New York Knicks,Home_Team
+551,Portland Trail Blazers,Sacramento Kings,Visitor_Team
+552,Philadelphia 76ers,Los Angeles Clippers,Visitor_Team
+553,Dallas Mavericks,Charlotte Hornets,Visitor_Team
+554,Miami Heat,Cleveland Cavaliers,Visitor_Team
+555,Washington Wizards,Atlanta Hawks,Home_Team
+556,Brooklyn Nets,New Orleans Pelicans,Home_Team
+557,Boston Celtics,Minnesota Timberwolves,Home_Team
+558,Orlando Magic,Chicago Bulls,Visitor_Team
+559,Detroit Pistons,Memphis Grizzlies,Visitor_Team
+560,Philadelphia 76ers,Phoenix Suns,Visitor_Team
+561,Oklahoma City Thunder,Los Angeles Lakers,Visitor_Team
+562,San Antonio Spurs,Toronto Raptors,Home_Team
+563,Denver Nuggets,Sacramento Kings,Visitor_Team
+564,Houston Rockets,Golden State Warriors,Visitor_Team
+565,Utah Jazz,Cleveland Cavaliers,Visitor_Team
+566,Boston Celtics,Dallas Mavericks,Home_Team
+567,Indiana Pacers,Chicago Bulls,Visitor_Team
+568,Brooklyn Nets,Memphis Grizzlies,Visitor_Team
+569,Miami Heat,Washington Wizards,Home_Team
+570,Minnesota Timberwolves,Orlando Magic,Home_Team
+571,Milwaukee Bucks,Atlanta Hawks,Home_Team
+572,Los Angeles Clippers,Phoenix Suns,Visitor_Team
+573,New York Knicks,Los Angeles Lakers,Visitor_Team
+574,Oklahoma City Thunder,Portland Trail Blazers,Visitor_Team
+575,Denver Nuggets,Charlotte Hornets,Home_Team
+576,Utah Jazz,Detroit Pistons,Visitor_Team
+577,Philadelphia 76ers,Dallas Mavericks,Home_Team
+578,New Orleans Pelicans,Cleveland Cavaliers,Visitor_Team
+579,Toronto Raptors,Milwaukee Bucks,Visitor_Team
+580,San Antonio Spurs,Memphis Grizzlies,Home_Team
+581,Portland Trail Blazers,Houston Rockets,Home_Team
+582,Golden State Warriors,Sacramento Kings,Visitor_Team
+583,Brooklyn Nets,Chicago Bulls,Visitor_Team
+584,Los Angeles Clippers,Orlando Magic,Home_Team
+585,Minnesota Timberwolves,Los Angeles Lakers,Home_Team
+586,Atlanta Hawks,Miami Heat,Home_Team
+587,Washington Wizards,Oklahoma City Thunder,Visitor_Team
+588,Toronto Raptors,Indiana Pacers,Home_Team
+589,Charlotte Hornets,Phoenix Suns,Visitor_Team
+590,San Antonio Spurs,Detroit Pistons,Visitor_Team
+591,Boston Celtics,Brooklyn Nets,Home_Team
+592,Houston Rockets,Denver Nuggets,Home_Team
+593,Milwaukee Bucks,Utah Jazz,Home_Team
+594,New Orleans Pelicans,Memphis Grizzlies,Home_Team
+595,Los Angeles Lakers,Dallas Mavericks,Visitor_Team
+596,Portland Trail Blazers,New York Knicks,Home_Team
+597,Sacramento Kings,Orlando Magic,Home_Team
+598,Indiana Pacers,Cleveland Cavaliers,Visitor_Team
+599,Philadelphia 76ers,Washington Wizards,Home_Team
+600,Denver Nuggets,Miami Heat,Visitor_Team
+601,Toronto Raptors,Atlanta Hawks,Home_Team
+602,Minnesota Timberwolves,Oklahoma City Thunder,Visitor_Team
+603,Phoenix Suns,Sacramento Kings,Home_Team
+604,Golden State Warriors,New York Knicks,Home_Team
+605,Los Angeles Clippers,Charlotte Hornets,Home_Team
+606,Boston Celtics,Indiana Pacers,Home_Team
+607,Washington Wizards,Philadelphia 76ers,Home_Team
+608,Brooklyn Nets,Atlanta Hawks,Home_Team
+609,Milwaukee Bucks,Houston Rockets,Visitor_Team
+610,Memphis Grizzlies,San Antonio Spurs,Home_Team
+611,New Orleans Pelicans,Cleveland Cavaliers,Home_Team
+612,Dallas Mavericks,Phoenix Suns,Home_Team
+613,Utah Jazz,Orlando Magic,Home_Team
+614,Portland Trail Blazers,Chicago Bulls,Home_Team
+615,Los Angeles Lakers,Detroit Pistons,Home_Team
+616,Miami Heat,Boston Celtics,Home_Team
+617,Denver Nuggets,Los Angeles Clippers,Home_Team
+618,San Antonio Spurs,Oklahoma City Thunder,Home_Team
+619,Sacramento Kings,Detroit Pistons,Home_Team
+620,Atlanta Hawks,Philadelphia 76ers,Visitor_Team
+621,Washington Wizards,Milwaukee Bucks,Home_Team
+622,Indiana Pacers,New York Knicks,Visitor_Team
+623,Toronto Raptors,Brooklyn Nets,Home_Team
+624,Houston Rockets,Cleveland Cavaliers,Home_Team
+625,Dallas Mavericks,Minnesota Timberwolves,Visitor_Team
+626,Portland Trail Blazers,Charlotte Hornets,Home_Team
+627,Utah Jazz,Los Angeles Lakers,Home_Team
+628,Golden State Warriors,Chicago Bulls,Home_Team
+629,Detroit Pistons,Los Angeles Clippers,Visitor_Team
+630,Miami Heat,Memphis Grizzlies,Home_Team
+631,Orlando Magic,Boston Celtics,Home_Team
+632,Minnesota Timberwolves,New Orleans Pelicans,Home_Team
+633,Oklahoma City Thunder,San Antonio Spurs,Home_Team
+634,Phoenix Suns,Denver Nuggets,Home_Team
+635,Sacramento Kings,Charlotte Hornets,Home_Team
+636,Utah Jazz,Chicago Bulls,Home_Team
+637,Philadelphia 76ers,New York Knicks,Visitor_Team
+638,Toronto Raptors,Washington Wizards,Visitor_Team
+639,Milwaukee Bucks,Atlanta Hawks,Visitor_Team
+640,Orlando Magic,Houston Rockets,Home_Team
+641,Golden State Warriors,Dallas Mavericks,Visitor_Team
+642,Denver Nuggets,Portland Trail Blazers,Home_Team
+643,Cleveland Cavaliers,Los Angeles Lakers,Visitor_Team
+644,Brooklyn Nets,Boston Celtics,Home_Team
+645,Houston Rockets,Memphis Grizzlies,Home_Team
+646,Charlotte Hornets,San Antonio Spurs,Visitor_Team
+647,Utah Jazz,Detroit Pistons,Home_Team
+648,Sacramento Kings,Portland Trail Blazers,Home_Team
+649,New Orleans Pelicans,Los Angeles Clippers,Visitor_Team
+650,Indiana Pacers,Phoenix Suns,Home_Team
+651,Philadelphia 76ers,Minnesota Timberwolves,Home_Team
+652,Atlanta Hawks,Oklahoma City Thunder,Home_Team
+653,Milwaukee Bucks,Miami Heat,Home_Team
+654,Golden State Warriors,Denver Nuggets,Visitor_Team
+655,Los Angeles Lakers,Chicago Bulls,Home_Team
+656,Detroit Pistons,Orlando Magic,Home_Team
+657,Boston Celtics,Toronto Raptors,Home_Team
+658,Brooklyn Nets,Houston Rockets,Visitor_Team
+659,Milwaukee Bucks,Memphis Grizzlies,Visitor_Team
+660,San Antonio Spurs,Dallas Mavericks,Visitor_Team
+661,Portland Trail Blazers,Cleveland Cavaliers,Home_Team
+662,Golden State Warriors,New Orleans Pelicans,Home_Team
+663,Utah Jazz,Los Angeles Clippers,Visitor_Team
+664,Washington Wizards,New York Knicks,Home_Team
+665,Charlotte Hornets,Sacramento Kings,Home_Team
+666,Philadelphia 76ers,Indiana Pacers,Visitor_Team
+667,Toronto Raptors,Phoenix Suns,Home_Team
+668,Denver Nuggets,Chicago Bulls,Home_Team
+669,Los Angeles Lakers,Oklahoma City Thunder,Visitor_Team
+670,Boston Celtics,Memphis Grizzlies,Home_Team
+671,Detroit Pistons,Miami Heat,Home_Team
+672,Brooklyn Nets,Orlando Magic,Visitor_Team
+673,San Antonio Spurs,Minnesota Timberwolves,Visitor_Team
+674,Utah Jazz,Cleveland Cavaliers,Home_Team
+675,Golden State Warriors,Los Angeles Clippers,Visitor_Team
+676,Portland Trail Blazers,New Orleans Pelicans,Home_Team
+677,Oklahoma City Thunder,Philadelphia 76ers,Visitor_Team
+678,Charlotte Hornets,Phoenix Suns,Home_Team
+679,Sacramento Kings,Detroit Pistons,Visitor_Team
+680,Indiana Pacers,Dallas Mavericks,Home_Team
+681,Milwaukee Bucks,Orlando Magic,Visitor_Team
+682,Boston Celtics,Atlanta Hawks,Visitor_Team
+683,Toronto Raptors,Memphis Grizzlies,Home_Team
+684,Miami Heat,Chicago Bulls,Visitor_Team
+685,Houston Rockets,Los Angeles Lakers,Home_Team
+686,Denver Nuggets,Cleveland Cavaliers,Home_Team
+687,Indiana Pacers,Charlotte Hornets,Home_Team
+688,Minnesota Timberwolves,Phoenix Suns,Home_Team
+689,Los Angeles Clippers,San Antonio Spurs,Visitor_Team
+690,Oklahoma City Thunder,New York Knicks,Visitor_Team
+691,Chicago Bulls,Cleveland Cavaliers,Visitor_Team
+692,Milwaukee Bucks,Dallas Mavericks,Home_Team
+693,Washington Wizards,Detroit Pistons,Home_Team
+694,Orlando Magic,Atlanta Hawks,Visitor_Team
+695,Brooklyn Nets,Sacramento Kings,Home_Team
+696,New Orleans Pelicans,Memphis Grizzlies,Visitor_Team
+697,Boston Celtics,Miami Heat,Home_Team
+698,Philadelphia 76ers,Houston Rockets,Home_Team
+699,Portland Trail Blazers,Utah Jazz,Visitor_Team
+700,Golden State Warriors,Los Angeles Lakers,Visitor_Team
+701,Toronto Raptors,Sacramento Kings,Home_Team
+702,Oklahoma City Thunder,Portland Trail Blazers,Home_Team
+703,Dallas Mavericks,Los Angeles Clippers,Home_Team
+704,Minnesota Timberwolves,Phoenix Suns,Visitor_Team
+705,Indiana Pacers,Toronto Raptors,Home_Team
+706,Boston Celtics,Cleveland Cavaliers,Home_Team
+707,Brooklyn Nets,Orlando Magic,Home_Team
+708,Los Angeles Clippers,Miami Heat,Visitor_Team
+709,Houston Rockets,New York Knicks,Visitor_Team
+710,Atlanta Hawks,Chicago Bulls,Visitor_Team
+711,Charlotte Hornets,Memphis Grizzlies,Visitor_Team
+712,Detroit Pistons,New Orleans Pelicans,Visitor_Team
+713,Philadelphia 76ers,San Antonio Spurs,Home_Team
+714,Utah Jazz,Denver Nuggets,Home_Team
+715,Oklahoma City Thunder,New Orleans Pelicans,Home_Team
+716,Golden State Warriors,Washington Wizards,Visitor_Team
+717,Portland Trail Blazers,Phoenix Suns,Visitor_Team
+718,Minnesota Timberwolves,Los Angeles Lakers,Visitor_Team
+719,Washington Wizards,Orlando Magic,Visitor_Team
+720,Brooklyn Nets,New York Knicks,Home_Team
+721,Miami Heat,Cleveland Cavaliers,Visitor_Team
+722,Los Angeles Clippers,Chicago Bulls,Visitor_Team
+723,Houston Rockets,Toronto Raptors,Home_Team
+724,Sacramento Kings,Memphis Grizzlies,Visitor_Team
+725,Dallas Mavericks,Detroit Pistons,Home_Team
+726,Milwaukee Bucks,Charlotte Hornets,Home_Team
+727,Denver Nuggets,Phoenix Suns,Home_Team
+728,Utah Jazz,Minnesota Timberwolves,Home_Team
+729,San Antonio Spurs,New Orleans Pelicans,Visitor_Team
+730,Memphis Grizzlies,Indiana Pacers,Home_Team
+731,Golden State Warriors,Boston Celtics,Visitor_Team
+732,Denver Nuggets,Philadelphia 76ers,Home_Team
+733,Portland Trail Blazers,Atlanta Hawks,Home_Team
+734,Cleveland Cavaliers,Chicago Bulls,Visitor_Team
+735,Los Angeles Clippers,Sacramento Kings,Home_Team
+736,Oklahoma City Thunder,Milwaukee Bucks,Home_Team
+737,Toronto Raptors,Dallas Mavericks,Visitor_Team
+738,Houston Rockets,Orlando Magic,Home_Team
+739,Utah Jazz,Minnesota Timberwolves,Visitor_Team
+740,San Antonio Spurs,Washington Wizards,Home_Team
+741,Miami Heat,New York Knicks,Visitor_Team
+742,Los Angeles Lakers,Phoenix Suns,Home_Team
+743,Charlotte Hornets,New York Knicks,Home_Team
+744,Golden State Warriors,Indiana Pacers,Visitor_Team
+745,Boston Celtics,Brooklyn Nets,Home_Team
+746,Denver Nuggets,Memphis Grizzlies,Visitor_Team
+747,Atlanta Hawks,Los Angeles Clippers,Visitor_Team
+748,Cleveland Cavaliers,Washington Wizards,Home_Team
+749,Milwaukee Bucks,Detroit Pistons,Visitor_Team
+750,Oklahoma City Thunder,Orlando Magic,Visitor_Team
+751,Brooklyn Nets,Chicago Bulls,Home_Team
+752,New Orleans Pelicans,Houston Rockets,Visitor_Team
+753,San Antonio Spurs,Phoenix Suns,Home_Team
+754,Philadelphia 76ers,Los Angeles Lakers,Visitor_Team
+755,Boston Celtics,Charlotte Hornets,Home_Team
+756,Chicago Bulls,Miami Heat,Visitor_Team
+757,Dallas Mavericks,New York Knicks,Visitor_Team
+758,Minnesota Timberwolves,Memphis Grizzlies,Home_Team
+759,Denver Nuggets,New Orleans Pelicans,Visitor_Team
+760,Washington Wizards,Indiana Pacers,Home_Team
+761,Sacramento Kings,Atlanta Hawks,Home_Team
+762,Portland Trail Blazers,Utah Jazz,Home_Team
+763,Detroit Pistons,Dallas Mavericks,Home_Team
+764,Orlando Magic,Indiana Pacers,Home_Team
+765,Milwaukee Bucks,Toronto Raptors,Visitor_Team
+766,San Antonio Spurs,Brooklyn Nets,Home_Team
+767,Philadelphia 76ers,Golden State Warriors,Visitor_Team
+768,Los Angeles Lakers,Los Angeles Clippers,Visitor_Team
+769,Charlotte Hornets,Memphis Grizzlies,Home_Team
+770,Boston Celtics,New York Knicks,Visitor_Team
+771,Oklahoma City Thunder,Miami Heat,Visitor_Team
+772,Utah Jazz,Atlanta Hawks,Home_Team
+773,Denver Nuggets,Houston Rockets,Home_Team
+774,Los Angeles Clippers,Detroit Pistons,Visitor_Team
+775,Charlotte Hornets,Chicago Bulls,Home_Team
+776,Orlando Magic,Brooklyn Nets,Home_Team
+777,Milwaukee Bucks,Washington Wizards,Visitor_Team
+778,Dallas Mavericks,Cleveland Cavaliers,Visitor_Team
+779,Indiana Pacers,Miami Heat,Visitor_Team
+780,Golden State Warriors,Los Angeles Lakers,Home_Team
+781,San Antonio Spurs,New Orleans Pelicans,Home_Team
+782,Denver Nuggets,Minnesota Timberwolves,Visitor_Team
+783,Atlanta Hawks,Phoenix Suns,Visitor_Team
+784,Houston Rockets,Utah Jazz,Visitor_Team
+785,Sacramento Kings,Philadelphia 76ers,Home_Team
+786,Memphis Grizzlies,New York Knicks,Visitor_Team
+787,Boston Celtics,Oklahoma City Thunder,Home_Team
+788,Toronto Raptors,Los Angeles Clippers,Home_Team
+789,Detroit Pistons,Denver Nuggets,Home_Team
+790,Atlanta Hawks,Washington Wizards,Visitor_Team
+791,Milwaukee Bucks,Brooklyn Nets,Visitor_Team
+792,Indiana Pacers,New Orleans Pelicans,Visitor_Team
+793,Houston Rockets,Phoenix Suns,Visitor_Team
+794,Sacramento Kings,San Antonio Spurs,Home_Team
+795,Los Angeles Clippers,Charlotte Hornets,Visitor_Team
+796,Boston Celtics,Cleveland Cavaliers,Visitor_Team
+797,Indiana Pacers,Los Angeles Lakers,Home_Team
+798,Detroit Pistons,New York Knicks,Visitor_Team
+799,Memphis Grizzlies,Minnesota Timberwolves,Home_Team
+800,Oklahoma City Thunder,Orlando Magic,Home_Team
+801,Toronto Raptors,Philadelphia 76ers,Visitor_Team
+802,Miami Heat,Portland Trail Blazers,Visitor_Team
+803,Brooklyn Nets,Denver Nuggets,Home_Team
+804,New Orleans Pelicans,Chicago Bulls,Visitor_Team
+805,Milwaukee Bucks,Washington Wizards,Home_Team
+806,Dallas Mavericks,Charlotte Hornets,Home_Team
+807,Utah Jazz,Phoenix Suns,Home_Team
+808,Houston Rockets,Sacramento Kings,Visitor_Team
+809,Golden State Warriors,San Antonio Spurs,Home_Team
+810,Indiana Pacers,Los Angeles Clippers,Home_Team
+811,Orlando Magic,Minnesota Timberwolves,Home_Team
+812,Toronto Raptors,Atlanta Hawks,Visitor_Team
+813,Los Angeles Lakers,Boston Celtics,Visitor_Team
+814,Oklahoma City Thunder,Memphis Grizzlies,Home_Team
+815,Portland Trail Blazers,San Antonio Spurs,Home_Team
+816,Detroit Pistons,New York Knicks,Home_Team
+817,Philadelphia 76ers,Denver Nuggets,Home_Team
+818,Washington Wizards,Cleveland Cavaliers,Home_Team
+819,Chicago Bulls,Brooklyn Nets,Visitor_Team
+820,Milwaukee Bucks,Dallas Mavericks,Visitor_Team
+821,Golden State Warriors,Phoenix Suns,Visitor_Team
+822,New Orleans Pelicans,Minnesota Timberwolves,Home_Team
+823,Sacramento Kings,Miami Heat,Home_Team
+824,Utah Jazz,San Antonio Spurs,Home_Team
+825,Indiana Pacers,Cleveland Cavaliers,Home_Team
+826,Charlotte Hornets,Atlanta Hawks,Visitor_Team
+827,Toronto Raptors,New York Knicks,Visitor_Team
+828,Los Angeles Clippers,Boston Celtics,Visitor_Team
+829,Washington Wizards,Chicago Bulls,Visitor_Team
+830,Memphis Grizzlies,New Orleans Pelicans,Home_Team
+831,Oklahoma City Thunder,Houston Rockets,Visitor_Team
+832,Orlando Magic,Milwaukee Bucks,Visitor_Team
+833,Dallas Mavericks,Portland Trail Blazers,Home_Team
+834,Philadelphia 76ers,Los Angeles Lakers,Home_Team
+835,Sacramento Kings,Phoenix Suns,Home_Team
+836,Orlando Magic,Atlanta Hawks,Visitor_Team
+837,Golden State Warriors,Miami Heat,Home_Team
+838,Cleveland Cavaliers,New York Knicks,Home_Team
+839,Detroit Pistons,Washington Wizards,Home_Team
+840,Indiana Pacers,Charlotte Hornets,Home_Team
+841,Toronto Raptors,Brooklyn Nets,Home_Team
+842,Milwaukee Bucks,Chicago Bulls,Visitor_Team
+843,Houston Rockets,Dallas Mavericks,Home_Team
+844,Minnesota Timberwolves,Los Angeles Clippers,Home_Team
+845,Oklahoma City Thunder,Portland Trail Blazers,Home_Team
+846,Denver Nuggets,Miami Heat,Home_Team
+847,Atlanta Hawks,Los Angeles Lakers,Home_Team
+848,San Antonio Spurs,Memphis Grizzlies,Visitor_Team
+849,Orlando Magic,New Orleans Pelicans,Visitor_Team
+850,Boston Celtics,Philadelphia 76ers,Visitor_Team
+851,Golden State Warriors,Utah Jazz,Home_Team
+852,Brooklyn Nets,Cleveland Cavaliers,Visitor_Team
+853,Milwaukee Bucks,Indiana Pacers,Visitor_Team
+854,Boston Celtics,Detroit Pistons,Home_Team
+855,Philadelphia 76ers,New York Knicks,Visitor_Team
+856,Toronto Raptors,Washington Wizards,Home_Team
+857,Chicago Bulls,Memphis Grizzlies,Home_Team
+858,Minnesota Timberwolves,Houston Rockets,Home_Team
+859,Miami Heat,Dallas Mavericks,Visitor_Team
+860,Denver Nuggets,Sacramento Kings,Home_Team
+861,Los Angeles Clippers,Phoenix Suns,Home_Team
+862,Portland Trail Blazers,Golden State Warriors,Home_Team
+863,Orlando Magic,Charlotte Hornets,Home_Team
+864,New York Knicks,Atlanta Hawks,Visitor_Team
+865,New Orleans Pelicans,Oklahoma City Thunder,Home_Team
+866,Cleveland Cavaliers,Phoenix Suns,Home_Team
+867,Philadelphia 76ers,Miami Heat,Home_Team
+868,Portland Trail Blazers,Brooklyn Nets,Visitor_Team
+869,Milwaukee Bucks,Boston Celtics,Home_Team
+870,Golden State Warriors,Sacramento Kings,Home_Team
+871,Los Angeles Lakers,Houston Rockets,Home_Team
+872,Charlotte Hornets,Washington Wizards,Home_Team
+873,Indiana Pacers,New Orleans Pelicans,Home_Team
+874,Chicago Bulls,Orlando Magic,Visitor_Team
+875,Toronto Raptors,San Antonio Spurs,Home_Team
+876,Detroit Pistons,Atlanta Hawks,Visitor_Team
+877,Minnesota Timberwolves,New York Knicks,Visitor_Team
+878,Los Angeles Clippers,Memphis Grizzlies,Visitor_Team
+879,Denver Nuggets,Dallas Mavericks,Visitor_Team
+880,Oklahoma City Thunder,Utah Jazz,Home_Team
+881,Portland Trail Blazers,Philadelphia 76ers,Visitor_Team
+882,Atlanta Hawks,Phoenix Suns,Home_Team
+883,Brooklyn Nets,Charlotte Hornets,Visitor_Team
+884,Cleveland Cavaliers,Memphis Grizzlies,Home_Team
+885,New Orleans Pelicans,Los Angeles Lakers,Home_Team
+886,Indiana Pacers,Washington Wizards,Visitor_Team
+887,Detroit Pistons,Miami Heat,Visitor_Team
+888,Chicago Bulls,Boston Celtics,Home_Team
+889,Sacramento Kings,Oklahoma City Thunder,Visitor_Team
+890,Houston Rockets,Golden State Warriors,Visitor_Team
+891,Milwaukee Bucks,Minnesota Timberwolves,Home_Team
+892,Utah Jazz,Dallas Mavericks,Home_Team
+893,Orlando Magic,Toronto Raptors,Visitor_Team
+894,Denver Nuggets,Los Angeles Clippers,Home_Team
+895,New York Knicks,San Antonio Spurs,Home_Team
+896,Golden State Warriors,Charlotte Hornets,Visitor_Team
+897,Portland Trail Blazers,Cleveland Cavaliers,Visitor_Team
+898,Detroit Pistons,Indiana Pacers,Home_Team
+899,Brooklyn Nets,San Antonio Spurs,Home_Team
+900,Phoenix Suns,Miami Heat,Visitor_Team
+901,Milwaukee Bucks,Chicago Bulls,Visitor_Team
+902,Houston Rockets,Atlanta Hawks,Home_Team
+903,Memphis Grizzlies,Los Angeles Lakers,Home_Team
+904,Minnesota Timberwolves,Sacramento Kings,Home_Team
+905,Philadelphia 76ers,New Orleans Pelicans,Visitor_Team
+906,Los Angeles Clippers,Dallas Mavericks,Home_Team
+907,New York Knicks,Orlando Magic,Home_Team
+908,Toronto Raptors,Boston Celtics,Home_Team
+909,Denver Nuggets,Oklahoma City Thunder,Home_Team
+910,Houston Rockets,Charlotte Hornets,Visitor_Team
+911,Atlanta Hawks,Minnesota Timberwolves,Home_Team
+912,Washington Wizards,Brooklyn Nets,Visitor_Team
+913,Miami Heat,Golden State Warriors,Home_Team
+914,Portland Trail Blazers,Boston Celtics,Visitor_Team
+915,Chicago Bulls,Memphis Grizzlies,Visitor_Team
+916,Dallas Mavericks,Indiana Pacers,Home_Team
+917,San Antonio Spurs,Detroit Pistons,Home_Team
+918,Utah Jazz,Los Angeles Clippers,Home_Team
+919,Milwaukee Bucks,Sacramento Kings,Visitor_Team
+920,Los Angeles Lakers,New Orleans Pelicans,Home_Team
+921,Indiana Pacers,Minnesota Timberwolves,Home_Team
+922,Orlando Magic,Golden State Warriors,Home_Team
+923,Cleveland Cavaliers,New York Knicks,Visitor_Team
+924,Houston Rockets,Miami Heat,Home_Team
+925,Philadelphia 76ers,Oklahoma City Thunder,Visitor_Team
+926,Utah Jazz,Denver Nuggets,Visitor_Team
+927,Chicago Bulls,Atlanta Hawks,Visitor_Team
+928,Charlotte Hornets,Brooklyn Nets,Visitor_Team
+929,Boston Celtics,Washington Wizards,Home_Team
+930,Toronto Raptors,Portland Trail Blazers,Home_Team
+931,New Orleans Pelicans,Phoenix Suns,Visitor_Team
+932,Los Angeles Clippers,Sacramento Kings,Visitor_Team
+933,Milwaukee Bucks,Los Angeles Lakers,Visitor_Team
+934,Detroit Pistons,Cleveland Cavaliers,Visitor_Team
+935,Orlando Magic,Indiana Pacers,Visitor_Team
+936,Miami Heat,Brooklyn Nets,Home_Team
+937,Memphis Grizzlies,Dallas Mavericks,Visitor_Team
+938,Golden State Warriors,Philadelphia 76ers,Visitor_Team
+939,San Antonio Spurs,Oklahoma City Thunder,Home_Team
+940,New Orleans Pelicans,Denver Nuggets,Visitor_Team
+941,Phoenix Suns,Los Angeles Lakers,Home_Team
+942,Utah Jazz,Milwaukee Bucks,Home_Team
+943,Portland Trail Blazers,Charlotte Hornets,Visitor_Team
+944,Houston Rockets,Boston Celtics,Visitor_Team
+945,Atlanta Hawks,Chicago Bulls,Visitor_Team
+946,Los Angeles Clippers,New York Knicks,Home_Team
+947,Cleveland Cavaliers,Orlando Magic,Home_Team
+948,Detroit Pistons,Toronto Raptors,Home_Team
+949,Washington Wizards,Minnesota Timberwolves,Home_Team
+950,Oklahoma City Thunder,Memphis Grizzlies,Home_Team
+951,Brooklyn Nets,Dallas Mavericks,Home_Team
+952,Miami Heat,Atlanta Hawks,Home_Team
+953,San Antonio Spurs,Denver Nuggets,Home_Team
+954,Phoenix Suns,Milwaukee Bucks,Home_Team
+955,New Orleans Pelicans,Utah Jazz,Visitor_Team
+956,Sacramento Kings,New York Knicks,Home_Team
+957,Los Angeles Clippers,Los Angeles Lakers,Visitor_Team
+958,Indiana Pacers,Chicago Bulls,Home_Team
+959,Philadelphia 76ers,Orlando Magic,Home_Team
+960,Memphis Grizzlies,Portland Trail Blazers,Home_Team
+961,Minnesota Timberwolves,Oklahoma City Thunder,Home_Team
+962,Houston Rockets,Toronto Raptors,Visitor_Team
+963,Boston Celtics,Golden State Warriors,Visitor_Team
+964,Miami Heat,Charlotte Hornets,Visitor_Team
+965,Detroit Pistons,Minnesota Timberwolves,Home_Team
+966,Washington Wizards,Dallas Mavericks,Home_Team
+967,San Antonio Spurs,Atlanta Hawks,Visitor_Team
+968,Brooklyn Nets,Cleveland Cavaliers,Home_Team
+969,Chicago Bulls,Philadelphia 76ers,Home_Team
+970,Utah Jazz,New Orleans Pelicans,Visitor_Team
+971,Phoenix Suns,New York Knicks,Home_Team
+972,Boston Celtics,Sacramento Kings,Visitor_Team
+973,Denver Nuggets,Los Angeles Lakers,Visitor_Team
+974,Milwaukee Bucks,Indiana Pacers,Home_Team
+975,Oklahoma City Thunder,Portland Trail Blazers,Visitor_Team
+976,Charlotte Hornets,Washington Wizards,Home_Team
+977,Orlando Magic,Dallas Mavericks,Home_Team
+978,Detroit Pistons,Chicago Bulls,Visitor_Team
+979,Houston Rockets,Philadelphia 76ers,Home_Team
+980,Memphis Grizzlies,Utah Jazz,Home_Team
+981,Miami Heat,Cleveland Cavaliers,Home_Team
+982,Toronto Raptors,New Orleans Pelicans,Visitor_Team
+983,Golden State Warriors,Denver Nuggets,Home_Team
+984,Los Angeles Clippers,Oklahoma City Thunder,Home_Team
+985,Sacramento Kings,New York Knicks,Visitor_Team
+986,Brooklyn Nets,Atlanta Hawks,Visitor_Team
+987,Minnesota Timberwolves,Washington Wizards,Home_Team
+988,Boston Celtics,Los Angeles Lakers,Visitor_Team
+989,Milwaukee Bucks,Charlotte Hornets,Home_Team
+990,Portland Trail Blazers,Phoenix Suns,Home_Team
+991,Detroit Pistons,Chicago Bulls,Home_Team
+992,Toronto Raptors,Miami Heat,Visitor_Team
+993,Philadelphia 76ers,Indiana Pacers,Home_Team
+994,Atlanta Hawks,New Orleans Pelicans,Home_Team
+995,Memphis Grizzlies,Orlando Magic,Home_Team
+996,Houston Rockets,Dallas Mavericks,Visitor_Team
+997,Minnesota Timberwolves,New York Knicks,Home_Team
+998,San Antonio Spurs,Milwaukee Bucks,Home_Team
+999,Phoenix Suns,Golden State Warriors,Visitor_Team
+1000,Cleveland Cavaliers,Toronto Raptors,Home_Team
+1001,Washington Wizards,Sacramento Kings,Home_Team
+1002,Brooklyn Nets,Detroit Pistons,Home_Team
+1003,Houston Rockets,Charlotte Hornets,Home_Team
+1004,Oklahoma City Thunder,Utah Jazz,Visitor_Team
+1005,Los Angeles Clippers,Boston Celtics,Home_Team
+1006,Indiana Pacers,New York Knicks,Home_Team
+1007,Philadelphia 76ers,Cleveland Cavaliers,Home_Team
+1008,Los Angeles Lakers,Chicago Bulls,Visitor_Team
+1009,San Antonio Spurs,Dallas Mavericks,Visitor_Team
+1010,Milwaukee Bucks,New Orleans Pelicans,Visitor_Team
+1011,Denver Nuggets,Minnesota Timberwolves,Home_Team
+1012,Portland Trail Blazers,Los Angeles Clippers,Visitor_Team
+1013,Oklahoma City Thunder,Brooklyn Nets,Home_Team
+1014,Washington Wizards,Orlando Magic,Home_Team
+1015,Atlanta Hawks,Memphis Grizzlies,Home_Team
+1016,Miami Heat,Detroit Pistons,Home_Team
+1017,Golden State Warriors,Houston Rockets,Visitor_Team
+1018,Utah Jazz,Phoenix Suns,Visitor_Team
+1019,Indiana Pacers,Oklahoma City Thunder,Home_Team
+1020,Orlando Magic,Cleveland Cavaliers,Home_Team
+1021,Boston Celtics,Sacramento Kings,Home_Team
+1022,Toronto Raptors,Los Angeles Lakers,Home_Team
+1023,Utah Jazz,Minnesota Timberwolves,Home_Team
+1024,Denver Nuggets,Dallas Mavericks,Home_Team
+1025,Detroit Pistons,Los Angeles Lakers,Home_Team
+1026,Philadelphia 76ers,Sacramento Kings,Home_Team
+1027,Charlotte Hornets,Washington Wizards,Visitor_Team
+1028,Houston Rockets,Phoenix Suns,Home_Team
+1029,Milwaukee Bucks,Miami Heat,Visitor_Team
+1030,Portland Trail Blazers,New Orleans Pelicans,Visitor_Team
+1031,San Antonio Spurs,New York Knicks,Home_Team
+1032,Los Angeles Clippers,Chicago Bulls,Home_Team
+1033,Boston Celtics,Atlanta Hawks,Home_Team
+1034,Phoenix Suns,New Orleans Pelicans,Visitor_Team
+1035,Washington Wizards,Memphis Grizzlies,Home_Team
+1036,Dallas Mavericks,Cleveland Cavaliers,Home_Team
+1037,Golden State Warriors,Oklahoma City Thunder,Visitor_Team
+1038,San Antonio Spurs,Portland Trail Blazers,Home_Team
+1039,Denver Nuggets,Indiana Pacers,Home_Team
+1040,Utah Jazz,Brooklyn Nets,Home_Team
+1041,New York Knicks,Los Angeles Lakers,Home_Team
+1042,Miami Heat,Charlotte Hornets,Home_Team
+1043,Philadelphia 76ers,Milwaukee Bucks,Visitor_Team
+1044,Detroit Pistons,Toronto Raptors,Home_Team
+1045,Orlando Magic,Atlanta Hawks,Home_Team
+1046,Sacramento Kings,Chicago Bulls,Home_Team
+1047,Houston Rockets,Minnesota Timberwolves,Home_Team
+1048,Los Angeles Clippers,Brooklyn Nets,Home_Team
+1049,Cleveland Cavaliers,Detroit Pistons,Home_Team
+1050,Utah Jazz,Washington Wizards,Visitor_Team
+1051,Denver Nuggets,Boston Celtics,Visitor_Team
+1052,Toronto Raptors,New York Knicks,Home_Team
+1053,Miami Heat,Oklahoma City Thunder,Visitor_Team
+1054,San Antonio Spurs,Golden State Warriors,Home_Team
+1055,New Orleans Pelicans,Dallas Mavericks,Visitor_Team
+1056,Chicago Bulls,Phoenix Suns,Visitor_Team
+1057,Portland Trail Blazers,Indiana Pacers,Home_Team
+1058,Philadelphia 76ers,Charlotte Hornets,Visitor_Team
+1059,Houston Rockets,Atlanta Hawks,Visitor_Team
+1060,Milwaukee Bucks,Los Angeles Lakers,Home_Team
+1061,Golden State Warriors,Minnesota Timberwolves,Visitor_Team
+1062,Brooklyn Nets,Sacramento Kings,Visitor_Team
+1063,Los Angeles Clippers,Indiana Pacers,Home_Team
+1064,Cleveland Cavaliers,Milwaukee Bucks,Home_Team
+1065,Orlando Magic,New Orleans Pelicans,Home_Team
+1066,Philadelphia 76ers,Boston Celtics,Home_Team
+1067,Utah Jazz,New York Knicks,Visitor_Team
+1068,Chicago Bulls,Washington Wizards,Home_Team
+1069,Memphis Grizzlies,Houston Rockets,Home_Team
+1070,Miami Heat,San Antonio Spurs,Visitor_Team
+1071,Toronto Raptors,Oklahoma City Thunder,Visitor_Team
+1072,Portland Trail Blazers,Dallas Mavericks,Home_Team
+1073,Charlotte Hornets,Minnesota Timberwolves,Home_Team
+1074,Denver Nuggets,Washington Wizards,Visitor_Team
+1075,Atlanta Hawks,Utah Jazz,Home_Team
+1076,Detroit Pistons,Phoenix Suns,Visitor_Team
+1077,Sacramento Kings,Dallas Mavericks,Home_Team
+1078,Golden State Warriors,Indiana Pacers,Home_Team
+1079,Orlando Magic,Memphis Grizzlies,Home_Team
+1080,Los Angeles Clippers,Cleveland Cavaliers,Visitor_Team
+1081,Denver Nuggets,New York Knicks,Visitor_Team
+1082,Oklahoma City Thunder,Toronto Raptors,Visitor_Team
+1083,Houston Rockets,San Antonio Spurs,Home_Team
+1084,Milwaukee Bucks,Miami Heat,Home_Team
+1085,Brooklyn Nets,Los Angeles Lakers,Visitor_Team
+1086,Charlotte Hornets,Boston Celtics,Home_Team
+1087,Miami Heat,Washington Wizards,Visitor_Team
+1088,Atlanta Hawks,Philadelphia 76ers,Home_Team
+1089,Utah Jazz,Chicago Bulls,Visitor_Team
+1090,Minnesota Timberwolves,Memphis Grizzlies,Visitor_Team
+1091,Dallas Mavericks,Golden State Warriors,Visitor_Team
+1092,Portland Trail Blazers,Detroit Pistons,Home_Team
+1093,Sacramento Kings,Phoenix Suns,Home_Team
+1094,Los Angeles Clippers,New York Knicks,Visitor_Team
+1095,Milwaukee Bucks,Cleveland Cavaliers,Home_Team
+1096,Indiana Pacers,Denver Nuggets,Home_Team
+1097,Charlotte Hornets,Toronto Raptors,Visitor_Team
+1098,Houston Rockets,New Orleans Pelicans,Visitor_Team
+1099,San Antonio Spurs,Boston Celtics,Visitor_Team
+1100,Golden State Warriors,Detroit Pistons,Home_Team
+1101,Los Angeles Lakers,Sacramento Kings,Home_Team
+1102,Orlando Magic,Philadelphia 76ers,Home_Team
+1103,Memphis Grizzlies,Oklahoma City Thunder,Home_Team
+1104,Utah Jazz,Phoenix Suns,Home_Team
+1105,Portland Trail Blazers,Brooklyn Nets,Home_Team
+1106,Charlotte Hornets,San Antonio Spurs,Home_Team
+1107,Boston Celtics,Cleveland Cavaliers,Visitor_Team
+1108,Orlando Magic,Miami Heat,Visitor_Team
+1109,Toronto Raptors,Chicago Bulls,Home_Team
+1110,Milwaukee Bucks,Houston Rockets,Home_Team
+1111,Los Angeles Clippers,Minnesota Timberwolves,Visitor_Team
+1112,Atlanta Hawks,New Orleans Pelicans,Visitor_Team
+1113,Sacramento Kings,Dallas Mavericks,Visitor_Team
+1114,Denver Nuggets,Detroit Pistons,Home_Team
+1115,Los Angeles Lakers,Washington Wizards,Home_Team
+1116,Portland Trail Blazers,Chicago Bulls,Visitor_Team
+1117,Golden State Warriors,Memphis Grizzlies,Visitor_Team
+1118,Oklahoma City Thunder,Indiana Pacers,Home_Team
+1119,Washington Wizards,Phoenix Suns,Visitor_Team
+1120,Utah Jazz,Los Angeles Lakers,Home_Team
+1121,Detroit Pistons,Orlando Magic,Home_Team
+1122,Philadelphia 76ers,Brooklyn Nets,Home_Team
+1123,Miami Heat,Dallas Mavericks,Home_Team
+1124,Toronto Raptors,New York Knicks,Visitor_Team
+1125,Houston Rockets,Denver Nuggets,Home_Team
+1126,Milwaukee Bucks,Los Angeles Clippers,Home_Team
+1127,New Orleans Pelicans,Sacramento Kings,Home_Team
+1128,San Antonio Spurs,Cleveland Cavaliers,Home_Team
+1129,Boston Celtics,Indiana Pacers,Home_Team
+1130,Portland Trail Blazers,Atlanta Hawks,Visitor_Team
+1131,Minnesota Timberwolves,Golden State Warriors,Home_Team
+1132,Denver Nuggets,Oklahoma City Thunder,Visitor_Team
+1133,Utah Jazz,Washington Wizards,Home_Team
+1134,Los Angeles Lakers,Charlotte Hornets,Home_Team
+1135,Los Angeles Clippers,Cleveland Cavaliers,Home_Team
+1136,Brooklyn Nets,Boston Celtics,Home_Team
+1137,Houston Rockets,Sacramento Kings,Home_Team
+1138,Detroit Pistons,Portland Trail Blazers,Home_Team
+1139,Orlando Magic,Indiana Pacers,Visitor_Team
+1140,Miami Heat,New York Knicks,Visitor_Team
+1141,Toronto Raptors,Chicago Bulls,Visitor_Team
+1142,Philadelphia 76ers,Minnesota Timberwolves,Visitor_Team
+1143,Memphis Grizzlies,Phoenix Suns,Visitor_Team
+1144,Atlanta Hawks,Milwaukee Bucks,Home_Team
+1145,Dallas Mavericks,Oklahoma City Thunder,Visitor_Team
+1146,Los Angeles Lakers,New Orleans Pelicans,Visitor_Team
+1147,Sacramento Kings,San Antonio Spurs,Visitor_Team
+1148,Washington Wizards,Denver Nuggets,Visitor_Team
+1149,Golden State Warriors,Charlotte Hornets,Home_Team
+1150,Los Angeles Clippers,Memphis Grizzlies,Home_Team
